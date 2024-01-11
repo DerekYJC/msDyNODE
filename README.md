@@ -27,4 +27,4 @@ File any issues with the [issue tracker](https://github.com/DerekYJC/NBGNet/issu
 
 ## Reference
 
-- Y. J. Chang, Y. I. Chen, H. M. Stealey, Y. Zhao, H. Y. Lu, E. Contreras-Hernandez, M. N. Baker, H. C. Yeh, & S. R. Santacruz (2020). [Multiscale effective connectivity analysis of brain activity using neural ordinary differential equations](https://www.biorxiv.org/content/10.1101/2023.09.21.558923v1), bioRxiv.
+- Y. J. Chang, Y. I. Chen, H. M. Stealey, Y. Zhao, H. Y. Lu, E. Contreras-Hernandez, M. N. Baker, H. C. Yeh, & S. R. Santacruz (2023). [Multiscale effective connectivity analysis of brain activity using neural ordinary differential equations](https://www.biorxiv.org/content/10.1101/2023.09.21.558923v1), bioRxiv.
