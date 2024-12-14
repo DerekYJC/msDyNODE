@@ -1,7 +1,7 @@
 msDyNODE - Neural Ordinary Differential Equation-based multi-scale Dynamical modeling
 ====================================================
 
-This code implements the model from the paper "[Multiscale effective connectivity analysis of brain activity using neural ordinary differential equations](https://www.biorxiv.org/content/10.1101/2023.09.21.558923v1)". It is a deep learning-based
+This code implements the model from the paper "[Multiscale effective connectivity analysis of brain activity using neural ordinary differential equations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314268)". It is a deep learning-based
 approach to characterize brain communications between regions and scales. By modeling the continuous dynamics of hidden states using the neural network-based ordinary differential equations, the requirement of downsampling the faster sampling signals is discarded, thus preventing from losing dynamics information. Another advantageous feature of the proposed method is flexibility. An adaptable framework to bridge the gap between scales is necessary. Depending on the neural recording modalities utilized in the experiment, any suitable pair of well-established models can be plugged into the proposed multi-scale modeling framework. Thus, this method can provide insight into the brain computations of multiscale brain activity.
 
 
@@ -27,4 +27,4 @@ File any issues with the [issue tracker](https://github.com/DerekYJC/NBGNet/issu
 
 ## Reference
 
-- Y. J. Chang, Y. I. Chen, H. M. Stealey, Y. Zhao, H. Y. Lu, E. Contreras-Hernandez, M. N. Baker, H. C. Yeh, & S. R. Santacruz (2023). [Multiscale effective connectivity analysis of brain activity using neural ordinary differential equations](https://www.biorxiv.org/content/10.1101/2023.09.21.558923v1), bioRxiv.
+- Y. J. Chang, Y. I. Chen, H. M. Stealey, Y. Zhao, H. Y. Lu, E. Contreras-Hernandez, M. N. Baker, E. Castillo, H. C. Yeh, & S. R. Santacruz (2024). [Multiscale effective connectivity analysis of brain activity using neural ordinary differential equations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314268), PLoS ONE 19(12): e0314268.
